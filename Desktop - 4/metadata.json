@@ -1,0 +1,14 @@
+{
+  "figma_frame": {
+    "width": 1440,
+    "height": 900
+  },
+  "images": [
+    "01d812836bb044d6f17b2392351cf026e27e1873.png",
+    "e6da6540b358e0adab654cae50a767e5c9205b79.png"
+  ],
+  "sizing": {
+    "horizontal": "FIXED",
+    "vertical": "FIXED"
+  }
+}
